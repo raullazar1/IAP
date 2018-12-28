@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545908688 source:c:\users\raulpe\desktop\raul\iap\laborator8\lab8ex1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

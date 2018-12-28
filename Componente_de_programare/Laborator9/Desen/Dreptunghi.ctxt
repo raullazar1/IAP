@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=a\ b\ x\ y
+comment0.target=Dreptunghi(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dreptunghi\r\n
+comment1.params=
+comment1.target=int\ aria()
+comment2.params=
+comment2.target=int\ perim()
+numComments=3

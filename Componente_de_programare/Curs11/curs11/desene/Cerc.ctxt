@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=raza\ x\ y
+comment0.target=Cerc(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cerc\r\n
+comment1.params=
+comment1.target=double\ arie()
+comment2.params=
+comment2.target=double\ perim()
+comment3.params=
+comment3.target=void\ desenez()
+numComments=4

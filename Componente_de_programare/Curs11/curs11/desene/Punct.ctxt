@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Punct(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Punct\r\n
+comment1.params=dx\ dy
+comment1.target=void\ translatez(int,\ int)
+numComments=2

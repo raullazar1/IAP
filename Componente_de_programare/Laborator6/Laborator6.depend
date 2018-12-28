@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1545898848 source:c:\users\raulpe\desktop\raul\iap\laborator6\main.cpp
+	<iostream>
+
+1545897848 source:c:\users\raulpe\desktop\raul\iap\laborator6\op_siruri.cpp
+
+1545898020 source:c:\users\raulpe\desktop\raul\iap\laborator6\vectori.cpp
+	<cmath>
+
