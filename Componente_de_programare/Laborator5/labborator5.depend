@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546010906 source:c:\users\raulpe\desktop\raul\iap\git\iap\componente_de_programare\laborator5\main.cpp
+	<iostream>
+	<cctype>
+	<cmath>
+
