@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549308827 source:c:\users\raulpe\desktop\raul\iap\proiect integrator\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
